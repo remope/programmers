@@ -62,34 +62,46 @@ public class Solution {
 //        }
 //        return answer;
 //    }
-
-    public String solution(String X, String Y) {
-        String answer = "";
-        List<String> digitX = Arrays.asList(X.split(""));
-        List<String> digitY = Arrays.asList(Y.split(""));
-        ArrayList<String> commonDigit = new ArrayList<>();
-        int index = digitX.size()-1;
-        for(int i = 0; i < digitX.size(); i++){
-            if(digitY.indexOf(digitX.get(index)) != -1){
-                commonDigit.add(digitX.get(index));
-                digitX.remove(index);
-                digitY.remove(digitY.indexOf(digitX.get(index)));
-            }else{
-                index--;
-            }
-        }
-        final Comparator<String> comp1 = (s1, s2) -> s1.compareToIgnoreCase(s2);
-        for(int i = 0; i < commonDigit.size(); i++){
-            answer += commonDigit.stream().max(comp1);
-        }
-        return answer  == "" ? "-1": answer;
+//
+//    프로그래머스 숫자 짝꿍
+//    public String solution(String X, String Y) {
+//        String answer = "";
+//        List<String> digitXList = Arrays.asList(X.split(""));
+//        List<String> digitYList = Arrays.asList(Y.split(""));
+//        ArrayList<String> digitX = new ArrayList<>();
+//        ArrayList<String> digitY = new ArrayList<>();
+//        digitX.addAll(digitXList);
+//        digitY.addAll(digitYList);
+//        ArrayList<String> commonDigit = new ArrayList<>();
+//        int index = digitX.size()-1;
+//        for(int i = 0; i < digitX.size(); i++){
+//            if(digitY.indexOf(digitX.get(index)) != -1){
+//                commonDigit.add(digitX.get(index));
+//                digitY.remove(digitY.indexOf(digitX.get(index)));
+//                digitX.remove(index);
+//            }
+//            index--;
+//
+//        }
+//        final Comparator<String> comp1 = (s1, s2) -> s1.compareToIgnoreCase(s2);
+//        for(int i = 0; i < commonDigit.size(); i++){
+//            answer += commonDigit.stream().max(comp1);
+//        }
+//        return answer  == "" ? "-1": answer;
+//    }
+    public String[] solution(String[] quiz) {
+        String[] answer = {};
+        return answer;
     }
-
     public static void main(String[] args) {
         Solution sol = new Solution();
         String X = "100";
         String Y = "203045";
-        System.out.println(sol.solution(X,Y));
+        String[] Z =sol.solution(new String[] {"3 - 4 = -3", "5 + 6 = 11"});
+        //System.out.println(sol.solution(new String[] {"3 - 4 = -3", "5 + 6 = 11"}));
+        for(int i = 0; i < Z.length; i++){
+            System.out.println(Z[i]);
+        }
 
     }
 }

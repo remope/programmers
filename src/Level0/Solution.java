@@ -22,11 +22,14 @@ public class Solution {
 //        return answer;
 //    }
 
-
+    public int solution(String str1, String str2) {
+        if(str1.contains(str2)) return 1;
+        return 2;
+    }
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-
+        System.out.println("sol.solution(\"ppprrrogrammers\", \"pppp\") = " + sol.solution("ppprrrogrammers", "pppp"));
     }
 
 

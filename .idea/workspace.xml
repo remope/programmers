@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level0/BacterialGrowth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/NextNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/Num7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/PushString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/SliceArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level0/StringSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level1/Babbling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Trio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/FoodFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/FoodFight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level0/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level0/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Level1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,15 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Level1.Solution">
+    <configuration name="Level1.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.Solution" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level0.Solution" />
       <module name="Programmers" />
@@ -65,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Level1.Solution" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -77,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667554021683</updated>
-      <workItem from="1667554023984" duration="10945000" />
+      <workItem from="1667554023984" duration="11889000" />
+      <workItem from="1667617808634" duration="4178000" />
     </task>
     <servers />
   </component>
@@ -94,5 +102,74 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level0/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level0/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/Solution.java</url>
+          <line>80</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

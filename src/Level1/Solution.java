@@ -89,19 +89,9 @@ public class Solution {
 //        }
 //        return answer  == "" ? "-1": answer;
 //    }
-    public String[] solution(String[] quiz) {
-        String[] answer = {};
-        return answer;
-    }
+
     public static void main(String[] args) {
         Solution sol = new Solution();
-        String X = "100";
-        String Y = "203045";
-        String[] Z =sol.solution(new String[] {"3 - 4 = -3", "5 + 6 = 11"});
-        //System.out.println(sol.solution(new String[] {"3 - 4 = -3", "5 + 6 = 11"}));
-        for(int i = 0; i < Z.length; i++){
-            System.out.println(Z[i]);
-        }
 
     }
 }

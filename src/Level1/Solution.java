@@ -1,9 +1,6 @@
 package Level1;
 
-import java.sql.Array;
 import java.util.*;
-import java.util.Arrays;
-import java.util.Stack;
 
 /**
  * 아직 풀지 못한 문제들이나 현재 풀고 있는 문제들의 코드들 작성
@@ -90,8 +87,11 @@ public class Solution {
 //        return answer  == "" ? "-1": answer;
 //    }
 
+
+
+
     public static void main(String[] args) {
         Solution sol = new Solution();
-
+        //System.out.println(sol.solution(ary));
     }
 }

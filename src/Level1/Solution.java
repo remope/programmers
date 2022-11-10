@@ -92,6 +92,6 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        //System.out.println(sol.solution(ary));
+        //System.out.println(sol.solution(13, 17));
     }
 }

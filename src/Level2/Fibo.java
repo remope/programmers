@@ -11,11 +11,11 @@ public class Fibo {
         int first = 1;
         int second = 0;
         for(int i = 2; i <= n; i++){
-            answer = (first + second) % 1234567;
+            answer = first + second;
             second = first;
             first = answer;
         }
-        return answer;
+        return answer % 1234567;
     }
 
     public int fibo(int n){

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level2/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level2/MinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/HateSameNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +39,26 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Match">
+  <component name="RunManager" selected="Application.HateSameNumber">
     <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level2.Carpet" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HateSameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.HateSameNumber" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,25 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.PrimeNumber" />
+    <configuration name="SecretMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.SecretMap" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SkillTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2.SkillTree" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HateSameNumber" />
+        <item itemvalue="Application.SecretMap" />
         <item itemvalue="Application.Match" />
         <item itemvalue="Application.Carpet" />
         <item itemvalue="Application.Tuple" />
-        <item itemvalue="Application.SkillTree" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +126,7 @@
       <workItem from="1667554023984" duration="11889000" />
       <workItem from="1667617808634" duration="5603000" />
       <workItem from="1667659308105" duration="40648000" />
-      <workItem from="1669453717025" duration="11753000" />
+      <workItem from="1669453717025" duration="15418000" />
     </task>
     <servers />
   </component>
@@ -415,6 +414,61 @@
           <url>file://$PROJECT_DIR$/src/Level2/Carpet.java</url>
           <line>12</line>
           <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/HateSameNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="227" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

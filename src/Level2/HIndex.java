@@ -12,4 +12,9 @@ public class HIndex {
         }
         return answer;
     }
+
+    public static void main(String[] args) {
+        HIndex hi = new HIndex();
+        System.out.println(hi.solution(new int[] {3, 0, 6, 1, 5}));
+    }
 }

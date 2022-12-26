@@ -1,7 +1,5 @@
 package Level1;
 
-import java.util.*;
-
 /**
  * 아직 풀지 못한 문제들이나 현재 풀고 있는 문제들의 코드들 작성
  * Solution 외 Java Class에는 풀이가 완료된 코드들 이동

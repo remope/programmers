@@ -3,7 +3,7 @@ package Level1;
 import java.util.Arrays;
 
 public class NotFinish {
-    public String solution(String[] participant, String[] completion) {
+    public StrDeal solution(StrDeal[] participant, StrDeal[] completion) {
         int i = 0;
         Arrays.sort(participant);
         Arrays.sort(completion);

@@ -1,8 +1,5 @@
 package Level1;
 
-import java.util.ArrayList;
-import java.util.Stack;
-
 public class Dart {
     public int solution(String dartResult) {
         int answer = 0;

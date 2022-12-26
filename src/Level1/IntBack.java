@@ -1,7 +1,5 @@
 package Level1;
 
-import java.util.ArrayList;
-
 public class IntBack {
     public int[] solution(long n) {
         String str = Long.toString(n);

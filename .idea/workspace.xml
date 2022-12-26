@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level1/MiddleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/StrDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level2/Cache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Dart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Dart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/IntBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/IntBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/NotFinish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/NotFinish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +44,9 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.XStepNum">
-    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level2.HIndex" />
+  <component name="RunManager" selected="Application.Cache">
+    <configuration name="Cache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2.Cache" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HateSameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.HateSameNumber" />
+    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2.HIndex" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level1.*" />
+          <option name="PATTERN" value="Level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecretMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.SecretMap" />
+    <configuration name="StrDeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.StrDeal" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cache" />
+        <item itemvalue="Application.StrDeal" />
         <item itemvalue="Application.XStepNum" />
         <item itemvalue="Application.JumpAndTeleport" />
         <item itemvalue="Application.HIndex" />
-        <item itemvalue="Application.HateSameNumber" />
-        <item itemvalue="Application.SecretMap" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +131,7 @@
       <workItem from="1667554023984" duration="11889000" />
       <workItem from="1667617808634" duration="5603000" />
       <workItem from="1667659308105" duration="40648000" />
-      <workItem from="1669453717025" duration="37001000" />
+      <workItem from="1669453717025" duration="40949000" />
     </task>
     <servers />
   </component>
@@ -519,6 +524,91 @@
           <url>file://$PROJECT_DIR$/src/Level2/JumpAndTeleport.java</url>
           <line>14</line>
           <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/StrDeal.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/StrDeal.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/StrDeal.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level2/Cache.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="266" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

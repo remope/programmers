@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level1/StrDeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level2/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/SearchKim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Dart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Dart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/IntBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/IntBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/NotFinish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/NotFinish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +126,7 @@
       <workItem from="1667554023984" duration="11889000" />
       <workItem from="1667617808634" duration="5603000" />
       <workItem from="1667659308105" duration="40648000" />
-      <workItem from="1669453717025" duration="40949000" />
+      <workItem from="1669453717025" duration="41741000" />
     </task>
     <servers />
   </component>

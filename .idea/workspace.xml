@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level2/MatrixMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/SmallerSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.K_Number">
+  <component name="RunManager" selected="Application.SmallerSubstring">
     <configuration name="Cache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level2.Cache" />
       <module name="Programmers" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrDeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1.StrDeal" />
+    <configuration name="SmallerSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.SmallerSubstring" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallerSubstring" />
         <item itemvalue="Application.K_Number" />
         <item itemvalue="Application.StringSort" />
         <item itemvalue="Application.NumberExpression" />
         <item itemvalue="Application.Cache" />
-        <item itemvalue="Application.StrDeal" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,7 @@
       <workItem from="1667617808634" duration="5603000" />
       <workItem from="1667659308105" duration="40648000" />
       <workItem from="1669453717025" duration="43113000" />
-      <workItem from="1672236920018" duration="15411000" />
+      <workItem from="1672236920018" duration="16761000" />
     </task>
     <servers />
   </component>
@@ -730,6 +730,46 @@
           <url>file://$PROJECT_DIR$/src/Level1/K_Number.java</url>
           <line>13</line>
           <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level1/SmallerSubstring.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="304" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Level1/K_Number.java</url>

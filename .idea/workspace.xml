@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2588.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B_2441">
+  <component name="RunManager" selected="Application.B_2588">
     <configuration name="B_1769" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1769" />
       <module name="Programmers" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2455" />
+    <configuration name="B_2501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2501" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2501" />
+    <configuration name="B_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2588" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_2588" />
         <item itemvalue="Application.B_2441" />
         <item itemvalue="Application.B_1769" />
         <item itemvalue="Application.B_2903" />
         <item itemvalue="Application.B_2501" />
-        <item itemvalue="Application.B_2455" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1667659308105" duration="40648000" />
       <workItem from="1669453717025" duration="43113000" />
       <workItem from="1672236920018" duration="22741000" />
-      <workItem from="1674744735819" duration="20538000" />
+      <workItem from="1674744735819" duration="21536000" />
     </task>
     <servers />
   </component>

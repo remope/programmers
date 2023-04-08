@@ -17,7 +17,6 @@ public class B_1149 {
         int n = Integer.parseInt(st.nextToken());
 
         int[][] cost = new int[n][3];
-        int[][] dp = new int[n][3];
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine(), " ");

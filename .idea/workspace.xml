@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_24416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_9251.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B_24416">
+  <component name="RunManager" selected="Application.B_9251">
     <configuration name="B_10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10026" />
       <module name="Programmers" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_7569" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_7569" />
+    <configuration name="B_9251" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_9251" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_9251" />
         <item itemvalue="Application.B_24416" />
         <item itemvalue="Application.B_10026" />
         <item itemvalue="Application.B_1245" />
         <item itemvalue="Application.B_18405" />
-        <item itemvalue="Application.B_7569" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <workItem from="1677288349354" duration="18118000" />
       <workItem from="1678698976783" duration="46307000" />
       <workItem from="1681038082206" duration="29382000" />
-      <workItem from="1682167599553" duration="15525000" />
+      <workItem from="1682167599553" duration="17186000" />
     </task>
     <servers />
   </component>

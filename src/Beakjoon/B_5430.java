@@ -19,8 +19,6 @@ public class B_5430 {
             String command = br.readLine();
             int length = Integer.parseInt(br.readLine());
 
-            String ary = br.readLine();
-            ary = ary.substring(1, ary.length() - 1);
             StringTokenizer st = new StringTokenizer(br.readLine().replace("[", "").replace("]", ""), ",");
             for (int j = 0; j < length; j++) {
                 deq.add(Integer.parseInt(st.nextToken()));

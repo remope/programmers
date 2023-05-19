@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1629.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_16928.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B_1629">
+  <component name="RunManager" selected="Application.B_16928">
     <configuration name="B_1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1026" />
       <module name="Programmers" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2671" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2671" />
+    <configuration name="B_16928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_16928" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_16928" />
         <item itemvalue="Application.B_1629" />
         <item itemvalue="Application.B_5430" />
         <item itemvalue="Application.B_1106" />
         <item itemvalue="Application.B_1026" />
-        <item itemvalue="Application.B_2671" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1683909635533" duration="598000" />
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
-      <workItem from="1684151102613" duration="5147000" />
+      <workItem from="1684151102613" duration="10245000" />
     </task>
     <servers />
   </component>
@@ -1991,6 +1991,31 @@
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_1106.java</url>
           <line>29</line>
           <option name="timeStamp" value="767" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_16928.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="783" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_16928.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_16928.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="785" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_16928.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_16928.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="787" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Level1/K_Number.java</url>

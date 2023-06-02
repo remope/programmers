@@ -26,10 +26,19 @@ public class B_10830 {
         defaultMatrix = a;
         int[][] result = matPow(b);
         StringBuilder sb = new StringBuilder();
-
+        /*
+        계속 에러 뜨는 이유
+        2 1
+        1000 1000
+        1000 1000
+        일 때
+        1000 1000
+        1000 1000
+        이 나와서 에러가 나옴.
+        */
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                sb.append(result[i][j]).append(' ');
+                sb.append(result[i][j] % 1000).append(' ');
             }
             sb.append('\n');
         }

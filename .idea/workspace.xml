@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_3273.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_10610.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +49,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B_9935">
-    <configuration name="B_10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10942" />
+  <component name="RunManager" selected="Application.B_10610">
+    <configuration name="B_10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10610" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_14495" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_14495" />
+    <configuration name="B_10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10942" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_10610" />
         <item itemvalue="Application.B_9935" />
         <item itemvalue="Application.B_1890" />
         <item itemvalue="Application.B_10942" />
         <item itemvalue="Application.B_1926" />
-        <item itemvalue="Application.B_14495" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1683909635533" duration="598000" />
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
-      <workItem from="1684151102613" duration="82478000" />
+      <workItem from="1684151102613" duration="84143000" />
     </task>
     <servers />
   </component>

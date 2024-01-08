@@ -29,6 +29,10 @@ public class B_1987 {
             }
         }
         //visited[map[0][0] - 'A'] = true; //처음 풀이
+        if(r == 1 && c == 1) {
+            System.out.println(1);
+            return;
+        }
         dfs(0, 0, 0);
         System.out.println(maxCount);
 

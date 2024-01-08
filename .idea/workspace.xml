@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_9663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1806.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beakjoon/B_1987.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beakjoon/B_1987.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.B_9663">
+  <component name="RunManager" selected="Application.B_1806">
     <configuration name="B_10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10610" />
       <module name="Programmers" />
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_10942" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10942" />
+    <configuration name="B_1806" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1806" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_1890" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1890" />
+    <configuration name="B_1987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1987" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_1806" />
+        <item itemvalue="Application.B_1987" />
         <item itemvalue="Application.B_9663" />
         <item itemvalue="Application.B_10610" />
         <item itemvalue="Application.B_9935" />
-        <item itemvalue="Application.B_1890" />
-        <item itemvalue="Application.B_10942" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +150,7 @@
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
       <workItem from="1684151102613" duration="88327000" />
-      <workItem from="1704456756097" duration="1551000" />
+      <workItem from="1704456756097" duration="6064000" />
     </task>
     <servers />
   </component>
@@ -2442,6 +2443,51 @@
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_9935.java</url>
           <line>43</line>
           <option name="timeStamp" value="926" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="927" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="939" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="940" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="941" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="943" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="944" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_1806.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="947" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Level1/K_Number.java</url>

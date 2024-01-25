@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DataStructure/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/L_108.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +152,7 @@
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
       <workItem from="1684151102613" duration="88327000" />
-      <workItem from="1704456756097" duration="16661000" />
+      <workItem from="1704456756097" duration="17660000" />
     </task>
     <servers />
   </component>

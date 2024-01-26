@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### 풀다가 못푼 문제들 ###
+src/LeetCode/L_15.java

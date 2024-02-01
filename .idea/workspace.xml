@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_10164.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,20 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B_2011">
+  <component name="RunManager" selected="Application.B_10164">
+    <configuration name="B_10164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10164" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beakjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B_11052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_11052" />
       <module name="Programmers" />
@@ -90,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2583" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2583" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Beakjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="Programmers" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_10164" />
         <item itemvalue="Application.B_2011" />
         <item itemvalue="Application.B_2565" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.B_11052" />
-        <item itemvalue="Application.B_2583" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
       <workItem from="1684151102613" duration="88327000" />
-      <workItem from="1704456756097" duration="32591000" />
+      <workItem from="1704456756097" duration="35245000" />
     </task>
     <servers />
   </component>
@@ -2702,6 +2702,16 @@
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_2011.java</url>
           <line>41</line>
           <option name="timeStamp" value="1017" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_10164.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1018" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Beakjoon/B_10164.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1019" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Level1/K_Number.java</url>

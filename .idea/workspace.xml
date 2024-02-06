@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1916.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B_1753">
+  <component name="RunManager" selected="Application.B_1916">
     <configuration name="B_10164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_10164" />
       <module name="Programmers" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2011" />
+    <configuration name="B_1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1916" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2565" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2565" />
+    <configuration name="B_2011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2011" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_1916" />
         <item itemvalue="Application.B_1753" />
         <item itemvalue="Application.B_7562" />
         <item itemvalue="Application.B_10164" />
         <item itemvalue="Application.B_2011" />
-        <item itemvalue="Application.B_2565" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,7 @@
       <workItem from="1683912367299" duration="99000" />
       <workItem from="1683912535107" duration="3328000" />
       <workItem from="1684151102613" duration="88327000" />
-      <workItem from="1704456756097" duration="38599000" />
+      <workItem from="1704456756097" duration="40319000" />
     </task>
     <servers />
   </component>

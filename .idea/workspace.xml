@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_11726_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_15686.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_1759.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2294.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2470.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2579_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_2839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_7662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_16234.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +50,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.B_2206">
+  <component name="RunManager" selected="Application.B_16234">
     <configuration name="B_11726_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_11726_1" />
       <module name="Programmers" />
@@ -73,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_1463" />
+    <configuration name="B_16234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_16234" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_16234" />
         <item itemvalue="Application.B_2206" />
         <item itemvalue="Application.B_11726_1" />
         <item itemvalue="Application.B_2579_1" />
         <item itemvalue="Application.B_2294" />
-        <item itemvalue="Application.B_1463" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +152,7 @@
       <workItem from="1684151102613" duration="88327000" />
       <workItem from="1704456756097" duration="66680000" />
       <workItem from="1709275309277" duration="10227000" />
-      <workItem from="1713275535850" duration="5082000" />
+      <workItem from="1713275535850" duration="8224000" />
     </task>
     <servers />
   </component>
@@ -3077,22 +3068,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_2206.java</url>
-          <line>38</line>
+          <line>45</line>
           <option name="timeStamp" value="1210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_2206.java</url>
-          <line>57</line>
+          <line>64</line>
           <option name="timeStamp" value="1211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_2206.java</url>
-          <line>58</line>
+          <line>65</line>
           <option name="timeStamp" value="1212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Beakjoon/B_2206.java</url>
-          <line>59</line>
+          <line>66</line>
           <option name="timeStamp" value="1213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

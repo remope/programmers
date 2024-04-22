@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ebfaac-ad57-4840-8f14-f72b0f61c4f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_16234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beakjoon/B_11279.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,20 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.B_16234">
+  <component name="RunManager" selected="Application.B_11279">
+    <configuration name="B_11279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_11279" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beakjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B_11726_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_11726_1" />
       <module name="Programmers" />
@@ -90,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_2294" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2294" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Beakjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="B_2579_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beakjoon.B_2579_1" />
       <module name="Programmers" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_11279" />
         <item itemvalue="Application.B_16234" />
         <item itemvalue="Application.B_2206" />
         <item itemvalue="Application.B_11726_1" />
         <item itemvalue="Application.B_2579_1" />
-        <item itemvalue="Application.B_2294" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1684151102613" duration="88327000" />
       <workItem from="1704456756097" duration="66680000" />
       <workItem from="1709275309277" duration="10227000" />
-      <workItem from="1713275535850" duration="8224000" />
+      <workItem from="1713275535850" duration="10428000" />
     </task>
     <servers />
   </component>

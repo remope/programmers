@@ -8,6 +8,143 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class B_13460 {
+    public static int N, M, exitX, exitY;
+    public static char[][] map;
+    public static boolean[][][][] isVisited;
+    public static int[] dx = {1, 0, -1, 0};
+    public static int[] dy = {0, 1, 0, -1};
+    public static RedBlue red, blue;
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+        map = new char[N][M];
+        isVisited = new boolean[N][M][N][M];
+
+        for (int i = 0; i < N; i++) {       //map 입력
+            String str = br.readLine();
+            for (int j = 0; j < M; j++) {
+                map[i][j] = str.charAt(j);
+
+                if(map[i][j] == 'O') {
+                    exitX = i;
+                    exitY = j;
+                } else if(map[i][j] == 'R') {
+                    red = new RedBlue(i, j, 0, 0, 0);
+                } else if(map[i][j] == 'B') {
+                    blue = new RedBlue(0, 0, i, j, 0);
+                }
+            }
+        }
+
+        System.out.println(bfs());
+    }
+
+    public static int bfs() {
+        Queue<RedBlue> q = new LinkedList<>();
+        q.add(new RedBlue(red.rx, red.ry, blue.bx, blue.by, 1));
+        isVisited[red.rx][red.ry][blue.bx][blue.by] = true;
+
+        while(!q.isEmpty()) {
+            RedBlue rb = q.poll();
+            if(rb.depth > 10) {
+                return -1;
+            }
+            for (int i = 0; i < 4; i++) {
+                int nrx = rb.rx;
+                int nry = rb.ry;
+                int nbx = rb.bx;
+                int nby = rb.by;
+                int curDepth = rb.depth;
+                boolean isRedHole = false, isBlueHole = false;
+
+                // 1. 기울이기 -> rb 구슬들의 이동
+                // 1-1 R 이동
+                while(map[nrx + dx[i]][nry + dy[i]] != '#') {
+                    nrx += dx[i];
+                    nry += dy[i];
+
+                    if(nrx == exitX && nry == exitY) {
+                        isRedHole = true;
+                        break;
+                    }
+                }
+                // 1-2 B 이동
+                while(map[nbx + dx[i]][nby + dy[i]] != '#') {
+                    nbx += dx[i];
+                    nby += dy[i];
+
+                    if(nbx == exitX && nby == exitY) {
+                        isBlueHole = true;
+                        break;
+                    }
+                }
+
+                // 2. rb의 위치와 방향을 고려, 겹쳐있을 경우에 rb의 위치 재조정
+                if(isBlueHole) {
+                    continue;
+                }
+                if(isRedHole && !isBlueHole) {
+                    return curDepth;
+                }
+
+                if(nrx == nbx && nry == nby) {
+                    if(i == 0) {    // 아래로
+                        if(rb.rx > rb.bx) {
+                            nbx -= dx[i];
+                        } else {
+                            nrx -= dx[i];
+                        }
+                    } else if (i == 1) { // 오른쪽
+                        if(rb.ry > rb.by) {
+                            nby -= dy[i];
+                        } else {
+                            nry -= dy[i];
+                        }
+                    } else if (i == 2) { // 위로
+                        if(rb.rx > rb.bx) {
+                            nrx -= dx[i];
+                        } else {
+                            nbx -= dx[i];
+                        }
+                    } else if (i == 3) { // 왼쪽
+                        if(rb.ry > rb.by) {
+                            nry -= dy[i];
+                        } else {
+                            nby -= dy[i];
+                        }
+                    }
+                }
+
+
+                if(rb.rx == nrx && rb.ry == nry && rb.bx == nbx && rb.by == nby) {
+                    continue;
+                }
+
+                // 3. 위치 확인 후 구멍에 빠지지 않았다면 queue에 재삽입
+                q.add(new RedBlue(nrx, nry, nbx, nby, rb.depth + 1));
+            }
+        }
+        return -1;
+    }
+    public static class RedBlue {
+        int rx;
+        int ry;
+        int bx;
+        int by;
+        int depth;
+
+        public RedBlue(int rx, int ry, int bx, int by, int depth) {
+            this.rx = rx;
+            this.ry = ry;
+            this.bx = bx;
+            this.by = by;
+            this.depth = depth;
+        }
+    }
 
     /*  //틀린 코드
     public static int N, M, exitX, exitY;
